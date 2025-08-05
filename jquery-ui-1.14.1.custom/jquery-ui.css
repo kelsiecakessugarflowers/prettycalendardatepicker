@@ -429,6 +429,9 @@ button.ui-button::-moz-focus-inner {
 	margin: 0 2.3em;
 	line-height: 1.8em;
 	text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
 }
 .ui-datepicker .ui-datepicker-title select {
 	font-size: 1em;
@@ -448,7 +451,6 @@ button.ui-button::-moz-focus-inner {
 	padding: .7em .3em;
 	text-align: center;
 font-weight: normal;
-    text-transform: uppercase;
 	border: 0;
 }
 .ui-datepicker td {
